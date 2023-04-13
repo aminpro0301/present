@@ -1,0 +1,76 @@
+body{
+    background-color: azure;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h2{
+    text-align: center;
+}
+
+.top_menu{ 
+    background-color: black;
+}
+
+h1{
+    display: inline;
+    padding-left: 70px;
+    vertical-align: middle;
+    text-align: center;
+    color: #9c1e26;
+}
+
+.top_menu img{
+    height: 70px;
+    padding-left: 50px;    
+    vertical-align: middle;
+}
+
+.gallery{
+    background-color: #7fe3e3;
+    
+}
+
+.images{
+    margin: 0 auto;
+    width: 590px;
+}
+
+.images img{
+    margin: 20px;
+    width: 150px;
+    border:1px #26a37e solid  ;
+}
+
+
+.benefit{    
+    background-color: lightcoral;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.list{
+    width: 400px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+
+table{
+	margin: 0 auto; 
+    border-collapse: collapse;    
+    width: 60%;
+    background-color: #b576db;
+}
+
+td, th{
+    border: 1px black solid;
+}
+li {
+    text-decoration: underline;
+    te
+}
+
+
+
